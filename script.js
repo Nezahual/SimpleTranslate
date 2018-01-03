@@ -24,3 +24,5 @@ $(document).on({
     }
   }
 });
+
+//sacado de aquí https://stackoverflow.com/questions/30599608/detect-hover-on-selected-text
